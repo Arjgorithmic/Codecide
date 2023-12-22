@@ -25,14 +25,6 @@ Imagine a tool that listens to interview questions, comprehends them, and provid
 
 This project thrives on community involvement. Whether you're a seasoned developer or just starting your coding journey, your insights are invaluable. Join us for collaborative coding sessions, contribute ideas, and help refine the model. Your input plays a crucial role in shaping this innovative tool.
 
-## Getting Started
-
-To get started with the GPT Interview Assistant, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/yourusername/gpt-interview-assistant.git`
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run the application: `python main.py`
-
 ## Roadmap
 
 Our journey has just begun, and we're excited to witness the evolution of this project. By creating a tool that revolutionizes interview preparation without compromising the essence of problem-solving, we aim to make a significant impact on the lives of aspiring developers.
