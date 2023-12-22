@@ -1,7 +1,4 @@
 # Codecide
-
-## Project Overview
-
 Welcome to the GPT Interview Assistant, a project aimed at revolutionizing coding interviews by developing a free and open-source GPT model tailored for online interview scenarios. As a graduate student specializing in Artificial Intelligence and Machine Learning, my goal is to empower developers to confidently navigate online interviews, enhancing problem-solving skills in real-time.
 
 ## Project Highlights
