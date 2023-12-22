@@ -1,5 +1,4 @@
 # Codecide
-  GPT Interview Assistant
 
 ## Project Overview
 
